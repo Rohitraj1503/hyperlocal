@@ -1,0 +1,96 @@
+merchant_id,name,category,price,quantity,type
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Tomato - Hybrid,Fresh Produce,45,120,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Onion - Red,Fresh Produce,30,200,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Potato - White,Fresh Produce,25,180,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Spinach - Palak,Fresh Produce,20,80,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Carrot - Orange,Fresh Produce,35,100,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Capsicum - Green,Fresh Produce,60,70,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Bitter Gourd - Karela,Fresh Produce,40,60,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Brinjal - Purple,Fresh Produce,30,90,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Cauliflower,Fresh Produce,50,50,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Cucumber,Fresh Produce,25,110,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Banana - Robusta,Fresh Produce,60,150,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Apple - Shimla,Fresh Produce,180,80,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Mango - Alphonso,Fresh Produce,250,60,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Grapes - Green,Fresh Produce,120,75,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Watermelon,Fresh Produce,30,20,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Papaya,Fresh Produce,50,40,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Pomegranate,Fresh Produce,150,55,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Orange - Nagpur,Fresh Produce,100,90,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Pineapple,Fresh Produce,80,30,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Coriander Bunch,Fresh Produce,15,200,Herbs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Mint Leaves,Fresh Produce,12,180,Herbs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Curry Leaves,Fresh Produce,10,220,Herbs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Fenugreek - Methi,Fresh Produce,18,160,Herbs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Amul Full Cream Milk 1L,Daily Dairy,68,200,Milk/Curd
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Mother Dairy Toned Milk 500ml,Daily Dairy,32,150,Milk/Curd
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Amul Dahi 400g,Daily Dairy,50,100,Milk/Curd
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Nandini Curd 200g,Daily Dairy,25,120,Milk/Curd
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Amul Butter 500g,Daily Dairy,270,60,Cheese/Butter
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Britannia Butter 100g,Daily Dairy,60,90,Cheese/Butter
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Amul Cheese Slices 200g,Daily Dairy,120,70,Cheese/Butter
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Go Cheese Block 200g,Daily Dairy,140,55,Cheese/Butter
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Country Eggs - 6 Pack,Daily Dairy,75,100,Eggs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Farm Fresh Eggs - 12 Pack,Daily Dairy,140,80,Eggs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Lays Classic Salted 26g,Snack & Sips,20,300,Chips/Crisps
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Lays Magic Masala 26g,Snack & Sips,20,280,Chips/Crisps
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Kurkure Masala Munch 70g,Snack & Sips,20,250,Chips/Crisps
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Bingo Mad Angles 75g,Snack & Sips,20,200,Chips/Crisps
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Pringles Original 107g,Snack & Sips,105,100,Chips/Crisps
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Britannia Good Day 150g,Snack & Sips,40,200,Biscuits
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Parle-G Original 250g,Snack & Sips,20,300,Biscuits
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Oreo Vanilla 120g,Snack & Sips,35,180,Biscuits
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Hide & Seek 100g,Snack & Sips,38,150,Biscuits
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Haldirams Aloo Bhujia 200g,Snack & Sips,70,120,Namkeen
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Bikano Chana Chur 200g,Snack & Sips,55,100,Namkeen
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Balaji Ratlami Sev 100g,Snack & Sips,25,130,Namkeen
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Coca-Cola 750ml,Beverages,45,200,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Pepsi 600ml,Beverages,35,180,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Thums Up 750ml,Beverages,45,160,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Sprite 600ml,Beverages,35,170,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Maaza Mango 600ml,Beverages,40,150,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Red Bull 250ml,Beverages,120,100,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Real Mango Juice 1L,Beverages,110,90,Juices
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Tropicana Orange 1L,Beverages,120,80,Juices
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,B Natural Mixed Fruit 1L,Beverages,100,75,Juices
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Minute Maid Pulpy 400ml,Beverages,35,110,Juices
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Tata Tea Premium 500g,Beverages,230,70,Tea/Coffee
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Red Label Tea 250g,Beverages,130,80,Tea/Coffee
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Bru Instant Coffee 50g,Beverages,115,90,Tea/Coffee
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Nescafe Classic 50g,Beverages,200,65,Tea/Coffee
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Green Tea - Tulsi 25 bags,Beverages,120,60,Tea/Coffee
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Chicken Breast 500g,Meat & Seafood,200,50,Chicken
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Chicken Drumsticks 500g,Meat & Seafood,180,55,Chicken
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Whole Chicken 1kg,Meat & Seafood,300,30,Chicken
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Chicken Keema 500g,Meat & Seafood,190,40,Chicken
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Mutton Curry Cut 500g,Meat & Seafood,450,25,Mutton
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Mutton Keema 500g,Meat & Seafood,420,20,Mutton
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Mutton Leg Piece 500g,Meat & Seafood,500,15,Mutton
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Rohu Fish 500g,Meat & Seafood,220,40,Fish/Seafood
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Pomfret 500g,Meat & Seafood,350,30,Fish/Seafood
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Tiger Prawns 500g,Meat & Seafood,450,25,Fish/Seafood
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Surmai Fillet 500g,Meat & Seafood,380,20,Fish/Seafood
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Britannia Brown Bread 400g,Bakery,45,100,Breads
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Modern White Bread 400g,Bakery,38,120,Breads
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Harvest Gold Bread 400g,Bakery,42,110,Breads
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Multigrain Bread 300g,Bakery,60,80,Breads
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Garlic Bread Stick 150g,Bakery,80,60,Breads
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Chocolate Truffle Cake 500g,Bakery,350,20,Cakes/Muffins
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Vanilla Sponge Cake 400g,Bakery,280,25,Cakes/Muffins
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Blueberry Muffin 4 Pack,Bakery,120,40,Cakes/Muffins
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Chocolate Brownie 200g,Bakery,150,35,Cakes/Muffins
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Red Velvet Cup Cake 2 Pack,Bakery,180,30,Cakes/Muffins
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Pav Buns - 6 Pack,Bakery,30,150,Buns/Pav
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Burger Bun - 4 Pack,Bakery,40,120,Buns/Pav
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Hot Dog Bun - 4 Pack,Bakery,45,100,Buns/Pav
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Dinner Roll - 6 Pack,Bakery,55,90,Buns/Pav
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Ladyfinger - Okra 500g,Fresh Produce,40,95,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Coconut - Whole,Fresh Produce,45,60,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Ginger 100g,Fresh Produce,15,200,Herbs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Garlic 100g,Fresh Produce,20,180,Herbs
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Green Chilli 100g,Fresh Produce,15,220,Vegetable
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Lemon 4 Pack,Fresh Produce,25,160,Fruit
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Amul Lassi Mango 200ml,Beverages,25,130,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Kwality Walls Cornetto,Snack & Sips,40,80,Chips/Crisps
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Monster Energy 500ml,Beverages,150,60,Cold Drinks
+d3b07384-ad4b-47e3-bf77-0a371c6d37dc,Yoga Bar Oats Choco 38g,Snack & Sips,40,100,Biscuits
